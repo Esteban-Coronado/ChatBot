@@ -1,0 +1,42 @@
+573133121509:ENCOLADO ans_133eb530-e12e-4871-b494-9f1479e8ce5d
+EJECUTANDO:ans_133eb530-e12e-4871-b494-9f1479e8ce5d
+573133121509:SUCCESS
+573133121509:ENCOLADO ans_bebbfdc6-ed79-4cc5-b96b-4b6e6d4fd5cf
+EJECUTANDO:ans_bebbfdc6-ed79-4cc5-b96b-4b6e6d4fd5cf
+573133121509:SUCCESS
+573133121509:ENCOLADO ans_ab687f34-6c45-47f6-804b-ced78210da12
+EJECUTANDO:ans_ab687f34-6c45-47f6-804b-ced78210da12
+573133121509:SUCCESS
+573133121509:ENCOLADO ans_8bffa7d6-76b7-44b6-9a5d-ce79d767852a
+EJECUTANDO:ans_8bffa7d6-76b7-44b6-9a5d-ce79d767852a
+573133121509:SUCCESS
+573133121509:ENCOLADO ans_57c5c119-2070-4db8-9db4-a4f476ca50fd
+EJECUTANDO:ans_57c5c119-2070-4db8-9db4-a4f476ca50fd
+573133121509:SUCCESS
+573133121509:ENCOLADO ans_506b31f4-ecc2-4ee3-b061-db6796482ac8
+EJECUTANDO:ans_506b31f4-ecc2-4ee3-b061-db6796482ac8
+573133121509:SUCCESS
+573133121509:ENCOLADO ans_cc681996-739b-4644-8a67-07b5ac5e1843
+EJECUTANDO:ans_cc681996-739b-4644-8a67-07b5ac5e1843
+573133121509:SUCCESS
+573133121509:ENCOLADO ans_063fe14f-7f76-4cc2-ada4-15d7f1d43e72
+EJECUTANDO:ans_063fe14f-7f76-4cc2-ada4-15d7f1d43e72
+573133121509:SUCCESS
+573133121509:ENCOLADO ans_20cf6cab-e620-499f-9ca0-d51d0598359e
+EJECUTANDO:ans_20cf6cab-e620-499f-9ca0-d51d0598359e
+573133121509:SUCCESS
+573133121509:ENCOLADO ans_bebbfdc6-ed79-4cc5-b96b-4b6e6d4fd5cf
+EJECUTANDO:ans_bebbfdc6-ed79-4cc5-b96b-4b6e6d4fd5cf
+573133121509:SUCCESS
+573133121509:ENCOLADO ans_1f163e6b-4f1b-4cba-9424-5da18f97bba3
+EJECUTANDO:ans_1f163e6b-4f1b-4cba-9424-5da18f97bba3
+573133121509:SUCCESS
+573133121509:ENCOLADO ans_6bbe0952-9ae8-4430-af63-274db28532d7
+EJECUTANDO:ans_6bbe0952-9ae8-4430-af63-274db28532d7
+573133121509:SUCCESS
+573133121509:ENCOLADO ans_39cb30da-b169-49c9-a79f-082598dbdac8
+EJECUTANDO:ans_39cb30da-b169-49c9-a79f-082598dbdac8
+573133121509:SUCCESS
+573133121509:ENCOLADO ans_b5f81858-eba4-43de-8404-85dd33beeca1
+EJECUTANDO:ans_b5f81858-eba4-43de-8404-85dd33beeca1
+573133121509:ERROR: {"message":"Request failed with status code 502","name":"Error","stack":"Error: Request failed with status code 502\n    at createError (D:\\2023 NO BORRAR\\Documents\\Programacion\\ChatBotFinal\\base-wweb-mongo\\node_modules\\openai\\node_modules\\axios\\lib\\core\\createError.js:16:15)\n    at settle (D:\\2023 NO BORRAR\\Documents\\Programacion\\ChatBotFinal\\base-wweb-mongo\\node_modules\\openai\\node_modules\\axios\\lib\\core\\settle.js:17:12)\n    at IncomingMessage.handleStreamEnd (D:\\2023 NO BORRAR\\Documents\\Programacion\\ChatBotFinal\\base-wweb-mongo\\node_modules\\openai\\node_modules\\axios\\lib\\adapters\\http.js:322:11)\n    at IncomingMessage.emit (node:events:526:35)\n    at endReadableNT (node:internal/streams/readable:1359:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","config":{"transitional":{"silentJSONParsing":true,"forcedJSONParsing":true,"clarifyTimeoutError":false},"transformRequest":[null],"transformResponse":[null],"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"maxBodyLength":-1,"headers":{"Accept":"application/json, text/plain, */*","Content-Type":"application/json","User-Agent":"OpenAI/NodeJS/3.3.0","Authorization":"Bearer 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","OpenAI-Organization":"org-nKdxUN7gOLVd0QHrU3S53xle","Content-Length":795},"method":"post","data":"{\"model\":\"gpt-3.5-turbo\",\"messages\":[{\"role\":\"user\",\"content\":\"Eres vender , una ia con el rol de vendedor en la empresa EcoModa,responde presentandote con la informacion que te di en un parrafo supercorto y todas tus respuestas deben ser super cortas , serio y profecional dirigiendote al usuario , recuerda siempre evitar responder preguntas o peticiones que no tengan nada que ver con ropa ,tu rol como vendedor o la empresa de la cual si piden informacio te la puedes inventar pero que siempre tenga sentido\"},{\"role\":\"assistant\",\"content\":\"¡Hola! Soy un vendedor de EcoModa, una empresa líder en moda sostenible. Estoy aquí para ayudarte con cualquier consulta o compra relacionada con nuestra ropa. ¿En qué puedo ayudarte?\"},{\"role\":\"user\",\"content\":\"vender háblame de la empresa\"}]}","url":"https://api.openai.com/v1/chat/completions"},"status":502}
